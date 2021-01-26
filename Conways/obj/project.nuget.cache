@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "g48mdhvwj6KXNjhP0tYyOTJuu6i3F5Z283smyds7sFQnuMenD6gP0GDcxuAfQ7mPusfr9GctxBtF8CqDvUBwlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nmorar.OCELLICS\\Desktop\\backup\\MyRepos\\Ozow 1\\Conways\\Conways.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nmorar.OCELLICS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\nmorar.OCELLICS\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\nmorar.OCELLICS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\nmorar.OCELLICS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
